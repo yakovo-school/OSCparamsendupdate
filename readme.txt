@@ -33,7 +33,7 @@ Video:
 
 https://www.youtube.com/watch?v=WgxwkAsNjYw
 https://www.youtube.com/watch?v=XyS2M0mM5iA
-https://www.youtube.com/watch?v=q72IUX6uZRI(didn't really use this one but still cool)
+https://www.youtube.com/watch?v=q72IUX6uZRI   (didn't really use this one but still cool)
 
 OSC in pD: (you may have to run sudo apt install osc or something if some OSC stuff is missing for some unexplained reason)
 https://www.youtube.com/watch?v=tJ2Kocl-2m4
