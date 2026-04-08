@@ -1,6 +1,7 @@
 Hello and thank you for downloading my ripped take of this project here: https://github.com/leozimmerman/parameterSender
 There's a lot of stuff here and I am going to try to make this appealing to new Linux users who want to get their hands dirty compiling from source.
 Read this whole thing before doing anything because the bottom of this doc will have a series of youtube videos I watched as my citations for getting started.
+Thank you to the AudioProgrammer Discord group for helping me with the NormalizedRange aspect of float management.
 
 I have to upload this whole mass of stuff because the file output is larger than the free-tier of github's allowance for a few files.
 
